@@ -1,0 +1,6 @@
+#fffffd
+#000001
+#aaaaab
+#bbbbb2
+#cccccc
+#dddddc
