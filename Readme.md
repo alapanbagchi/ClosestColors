@@ -10,26 +10,26 @@ A python script to compare a list of colors to a database of colors and store th
 # Example Code
 
 ## search.txt
-#ffffff
-#000000
+#ffffff\
+#000000\
 #aaaaaa
 
 ## pallete.txt
-#fffffd
-#fffff0
-#fffff1
-#fffffc
-#000005
-#000003
-#00000d
-#000001
-#aaaaa2
+#fffffd\
+#fffff0\
+#fffff1\
+#fffffc\
+#000005\
+#000003\
+#00000d\
+#000001\
+#aaaaa2\
 #aaaaaa
 
 ## The results stored in search.txt:
 
-#fffffd
-#000001
+#fffffd\
+#000001\
 #aaaaaa
 
 ## Explanation
